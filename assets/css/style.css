@@ -22,7 +22,8 @@ body {
     font-size: 5rem;
     text-align: left;
     border: none;
-    background-color: hsl(0, 0%, 20px);
+    background-color: hsl(0, 3%, 32%);
+    color: white;
 }
 
 #keys {
